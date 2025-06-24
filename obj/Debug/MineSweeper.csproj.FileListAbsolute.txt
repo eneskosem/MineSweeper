@@ -1,0 +1,11 @@
+C:\Users\kosem\source\repos\MineSweeperFormApp\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\kosem\source\repos\MineSweeperFormApp\MineSweeper\obj\Debug\MayinTarlasiWinForms.Form1.resources
+C:\Users\kosem\source\repos\MineSweeperFormApp\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\kosem\source\repos\MineSweeperFormApp\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\kosem\source\repos\MineSweeperFormApp\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\kosem\source\repos\MineSweeperFormApp\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\kosem\source\repos\MineSweeperFormApp\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\kosem\source\repos\MineSweeperFormApp\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\kosem\source\repos\MineSweeperFormApp\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\kosem\source\repos\MineSweeperFormApp\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\kosem\source\repos\MineSweeperFormApp\MineSweeper\obj\Debug\MineSweeper.exe.config
