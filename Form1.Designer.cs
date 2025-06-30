@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.numericUpDownRows = new System.Windows.Forms.NumericUpDown();
             this.numericUpDownCols = new System.Windows.Forms.NumericUpDown();
             this.buttonStart = new System.Windows.Forms.Button();
@@ -112,6 +113,7 @@
             this.Controls.Add(this.numericUpDownCols);
             this.Controls.Add(this.numericUpDownRows);
             this.Font = new System.Drawing.Font("Kristen ITC", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Mayın Tarlası E.K.";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownRows)).EndInit();
